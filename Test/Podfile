@@ -1,0 +1,12 @@
+platform :ios, "8.0"
+use_frameworks!
+
+target 'Test' do
+
+pod 'Alamofire', '~> 3.4'
+pod 'SwiftyJSON', '~> 2.3'
+pod 'APESuperHUD', '~> 0.5'
+pod 'AlamofireImage', '~> 2.0'
+pod 'ReachabilitySwift', '~> 2.3'
+
+end
